@@ -1,10 +1,10 @@
-# porter
+# Porter stemmer
 
-A Clojure library designed to ... well, that part is up to you.
+Pure Clojure implementation of Porter stemmer algo. PRs are welcome.
 
 ## Usage
 
-FIXME
+Just import (stem) function from core module.
 
 ## License
 
